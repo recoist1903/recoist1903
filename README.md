@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python,C#**
 
-- 📫 How to reach me **Discord Ege#4862**
+- 📫 How to reach me **Discord Ege#1111**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

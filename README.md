@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning about **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://recoist1903.github.io/](https://recoist1903.github.io/)
+- 👨‍💻 All of my projects are available at [??currently unavailable??]
 
 - 💬 Ask me about **Python,C#**
 
